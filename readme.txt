@@ -88,3 +88,12 @@ idea集成GitLab
   ④:VCS->import into Version Control->Create Git Repository..
 
   写的文件右击->Git->add 加入本地缓存中
+
+  右下角master标志点击 -> 添加分支/合并分支都有
+b
+  集成github
+    settings->version control->github可以使用口令登录
+
+  VCS->Import into versionControl->Share Project on Github
+
+  提交过后每次只需要在VCS->Git->push就可以提交到远程库了
